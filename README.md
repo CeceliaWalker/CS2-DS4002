@@ -1,5 +1,6 @@
 # CS2-DS4002
 Detecting AI-Generated Images Case Study
+
 A DS 4002 Case Study by Cecelia Walker
 
 Hook and Rubric Documents
