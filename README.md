@@ -9,7 +9,7 @@ The hook document outlining the case study is the file labeled CS2 Hook (1).pdf.
 
 Data and Code
 
-The image data can be obtained from "Data" file under "Materials." The code can be found in "MI3Code.ipynb" also under "Materials."
+The image data can be obtained from "Data" file under "Materials." Download the data set from the Hugging Face website. There is no data cleaning necessary. The code can be found in "MI3Code.ipynb" also under "Materials."
 
 Reference Materials
 
